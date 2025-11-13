@@ -1,18 +1,18 @@
 {
-  "name": "arslan-tech-bot",
+  "name": "MUDASIR-MD",
   "version": "2.2.6",
   "description": "WhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docker:build": "docker build -t arslan-tech-bot .",
-    "docker:run": "docker run -e SESSION_ID=$SESSION_ID arslan-tech-bot"
+    "docker:build": "docker build -t MUDASIR-MD .",
+    "docker:run": "docker run -e SESSION_ID=$SESSION_ID MUDASIR-MD"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Arslan-MD",
+  "author": "MUDASIR-MD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
